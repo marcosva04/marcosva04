@@ -59,7 +59,7 @@ Busco desarrollarme como **Analista SOC N1**, **Administrador de Sistemas** o **
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](www.linkedin.com/in/marcosvicenteamián)
+- 💼 <a href="https://linkedin.com/in/marcosvicenteamián" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📧 [Email](mailto:mmarcos674va@gmail.com)
 <!-- 🌐 [Portfolio](TU_PORTFOLIO)  -->
 
