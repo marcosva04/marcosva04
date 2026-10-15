@@ -1,6 +1,8 @@
 # Hola, soy Marcos Vicente Amián 👋
 
+
 ### Técnico de Sistemas | Ciberseguridad | Soporte IT | SOC N1 | Redes e Infraestructura
+
 
 Técnico Informático Superior en **Administración de Sistemas Informáticos en Red (ASIR)**, con especialización de posgrado en ciberseguridad y orientado a la administración de sistemas, redes, monitorización y respuesta ante incidentes.
 
@@ -27,10 +29,12 @@ Me interesa especialmente la administración de sistemas, la seguridad de redes,
 - VMware / Virtualización
 - Redes TCP/IP
 - Cisco IOSv-L2
+  
 
 ## 🛠️ Tecnologías y herramientas
 
 `Wazuh` · `FreeRADIUS` · `Docker` · `Linux` · `Windows Server` · `Active Directory` · `PowerShell` · `Bash` · `Wireshark` · `Nmap` · `Nessus` · `VMware` · `VirtualBox`
+
 
 ## 🚀 Proyectos destacados
 
@@ -44,6 +48,7 @@ Proyecto final de ASIR, calificado con **10/10**. Diseño de infraestructura par
 
 **[Consultar el proyecto](https://github.com/marcosva04/hotel-infra)**
 
+
 ## 🎓 Formación
 
 **Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información  — nota final: 8,7/10.**
@@ -52,19 +57,20 @@ Proyecto final de ASIR, calificado con **10/10**. Diseño de infraestructura par
 
 **CFGM Sistemas Microinformáticos y Redes (SMR) — nota final: 9/10.**
 
+
 ## 💼 Experiencia práctica
 
 Durante mis prácticas he trabajado en soporte IT, resolución de incidencias y administración de sistemas y redes. Entre las tareas realizadas se encuentran el soporte a más de 150 profesionales sanitarios y la clonación de más de 100 equipos.
+
 
 ## 🎯 Objetivo profesional
 
 Busco seguir desarrollandome en **ciberseguridad, administración de sistemas o soporte IT**, aportando una base sólida de sistemas, redes y ciberseguridad.
 
+
 ## 📫 Contacto
 
 - 💼 <a href="https://linkedin.com/in/marcosvicenteamián" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-
----
 
 - 📧 [Email](mailto:mmarcos674va@gmail.com)
 <!-- 🌐 [Portfolio](TU_PORTFOLIO)  -->
